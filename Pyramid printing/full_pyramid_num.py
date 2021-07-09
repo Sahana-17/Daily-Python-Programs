@@ -1,5 +1,4 @@
 num = int(input("Enter the pyramid size : "))
-symbol = input("Enter a symbol : ")
 space = (num*2)-1
 
 for i in range(1, num+1):
