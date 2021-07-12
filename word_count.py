@@ -1,3 +1,5 @@
+#It outputs the numners of words in the file
+
 from collections import Counter
 def word_count(fname):
         with open(fname) as f:

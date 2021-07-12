@@ -1,3 +1,5 @@
+#Program outputs the most freuquently used word in file and the word with the maximum characters
+
 import collections
 print("Input a text in a line : ")
 text_list = list(map(str, input().split()))

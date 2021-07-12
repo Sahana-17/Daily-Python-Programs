@@ -1,3 +1,5 @@
+# Strobogrammatic number : number remains the same after a rotation of 180 degrees. Eg. 101
+
 def gen_strobogrammatic(n):
     """
     :type n: int

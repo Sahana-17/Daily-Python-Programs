@@ -1,3 +1,5 @@
+#For a money input, the number of notes required is outputed. Eg. 550 : 2 notes
+
 def notes(num):
   money = [2000,500, 200, 100, 50, 20, 10]
   x = 0
