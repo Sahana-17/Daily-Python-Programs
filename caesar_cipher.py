@@ -1,3 +1,7 @@
+# This program takes a string for input, and a shift value n
+# It encodes the string by shifting the letters n values to the right.
+# Eg. "abcd xyz" shifted by 4 will be "efgh bcd"
+
 def cipher(plain_text, shift):
 	result = ""
 
