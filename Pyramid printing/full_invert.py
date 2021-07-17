@@ -1,3 +1,5 @@
+#Prints inverted full pyrwamid
+
 num = int(input("Enter the pyramid size : "))
 symbol = input("Enter a symbol : ")
 space = 2

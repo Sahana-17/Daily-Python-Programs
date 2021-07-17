@@ -1,3 +1,5 @@
+#Asks user to input string to output permutations
+
 def permute(data, i, length): 
     if i==length: 
         print(''.join(data) )

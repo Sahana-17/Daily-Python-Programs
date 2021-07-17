@@ -1,3 +1,6 @@
+#Python code to output all the permutaitons for a given string
+#Eg. ABC : ABC, ACB, BCA, BAC, CAB, CBA
+
 def generatePermutation(string,start,end):  
     current = 0
     if(start == end-1):  

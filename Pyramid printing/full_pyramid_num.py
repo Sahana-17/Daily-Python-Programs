@@ -1,3 +1,5 @@
+#Prints inverted full pyramid of numbers
+
 num = int(input("Enter the pyramid size : "))
 space = (num*2)-1
 
