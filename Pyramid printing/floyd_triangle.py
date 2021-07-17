@@ -1,3 +1,5 @@
+#Prints Floyd's triangle
+
 line = int(input("Enter number of lines : "))
 num = 1
 
