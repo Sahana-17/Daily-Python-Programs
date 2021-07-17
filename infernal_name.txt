@@ -1,5 +1,3 @@
-#NameList - Infernal Devices
-
 Magnus
 Charlotte
 Will 

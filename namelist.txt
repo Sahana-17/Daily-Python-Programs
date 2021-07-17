@@ -1,5 +1,3 @@
-#NameList-General 
-
 Tom
 Harry
 Will
